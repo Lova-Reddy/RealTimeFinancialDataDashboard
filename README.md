@@ -73,6 +73,6 @@ RealTimeFinancialDataDashboard/
 
 ---
 
-By: Adithya Sai Srinivas
+By: Lova Reddy
 
 ---
